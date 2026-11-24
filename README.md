@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Walter Fernandes, tenho17 anos e moro em São Paulo - SP. Atualmente sou um estudante. Sou apaixonado por tecnologia, curioso sobre Hardware.".
+Me chamo Walter Fernandes, tenho 17 anos e moro em São Paulo - SP. Atualmente sou um estudante. Sou apaixonado por tecnologia, curioso sobre Hardware.".
  
 #
 
